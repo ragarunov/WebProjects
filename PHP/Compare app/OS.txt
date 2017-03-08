@@ -1,0 +1,6 @@
+Android Marshmallow 6.0
+Android Lollipop 6.0.1
+iOS 10.1
+Android KitKat 4.4.2
+Android Marshmallow 6.0.1
+Android Lollipop 5.1

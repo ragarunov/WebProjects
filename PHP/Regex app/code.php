@@ -1,5 +1,5 @@
 <html>
- <head><title>Lab 3</title></head>
+ <head><title>Regex</title></head>
  <body>
 <?php
 
